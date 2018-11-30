@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Taskinator</string>
+    <string name="tab_text_1">Today</string>
+    <string name="tab_text_2">Month</string>
+    <string name="tab_text_3">Someday</string>
+    <string name="tab_text_4">All</string>
+    <string name="task_title">Task title</string>
+    <string name="title">Title</string>
+    <string name="priority">Priority</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="task_not_done">Task (not) done</string>
+    <string name="start_time">Start time</string>
+    <string name="category">Category</string>
+    <string name="camera_picture">Camera picture</string>
+    <string name="error_title">Write a title for the task</string>
+</resources>
